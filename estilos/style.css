@@ -15,7 +15,7 @@ main{
     align-items: center;
     height: 100vh;
     width: 100vw;
-    background: red;
+    background: gray;
 }
 
 main #celular{
